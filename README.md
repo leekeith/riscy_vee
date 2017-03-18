@@ -1,3 +1,3 @@
-# riscy_vee
-A homebrew RISC-V CPU in VHDL
-By Keith Lee
+# RISCy Vee
+## A homebrew RISC-V CPU in VHDL
+*Keith Lee, 2017*
